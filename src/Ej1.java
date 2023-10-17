@@ -13,6 +13,7 @@ public class Ej1 {
             System.out.println("El numero introducido es par");
         } else {
             System.out.println("El numero introducido es impar");
+            System.out.println("adsd");
         }
     }
 }
